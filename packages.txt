@@ -1,0 +1,14 @@
+autocomplete-paths@1.0.2
+color-picker@2.1.1
+file-icons@1.7.1
+highlight-selected@0.11.2
+jumpy@3.0.3
+minimap@4.21.0
+minimap-autohide@0.10.1
+minimap-git-diff@4.2.0
+minimap-highlight-selected@4.4.0
+pigments@0.26.0
+project-manager@2.9.7
+script@3.6.3
+wakatime@5.0.8
+
